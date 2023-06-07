@@ -1,2 +1,5 @@
-i#!/bin/bash
+i#!/bashD
 echo "ALX Shool is so cool!"
+=======
+echo "ALX School"
+>>>>>>> update_script
