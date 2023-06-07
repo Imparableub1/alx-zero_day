@@ -1,1 +1,1 @@
-my first readme
+there is a price to pay
